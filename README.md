@@ -14,14 +14,6 @@ Visualize relationships between variables
 
 Generate meaningful insights from raw data
 
-📂 Repository Structure
-
-📦 EDA-Repository
- ┣ 📂 datasets/           # Sample datasets (if applicable)
- ┣ 📂 notebooks/          # Jupyter notebooks with EDA walkthroughs
- ┣ 📂 scripts/            # Python scripts for EDA
- ┣ 📜 README.md           # Repository documentation
- ┣ 📜 requirements.txt    # Required dependencies
 
 📊 Topics Covered
 
@@ -35,17 +27,11 @@ Healthcare Data (Patient demographics, disease analysis)
 
 Customer Behavior (E-commerce transactions, marketing trends)
 
-🔧 Getting Started
-
-1️⃣ Clone the Repository
-
-git clone https://github.com/your-username/EDA-Repository.git
-
-2️⃣ Install Dependencies
+1️⃣ Install Dependencies
 
 pip install -r requirements.txt
 
-3️⃣ Run EDA Scripts
+2️⃣ Run EDA Scripts
 
 Navigate to the scripts/ directory and run any Python script:
 
