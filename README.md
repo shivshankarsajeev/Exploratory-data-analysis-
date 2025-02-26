@@ -17,15 +17,15 @@ Generate meaningful insights from raw data
 
 📊 Topics Covered
 
-The repository includes EDA on various datasets, such as:
-
-Sports Analytics (Player performance, match statistics)
-
-Financial Data (Stock market trends, banking performance)
-
-Healthcare Data (Patient demographics, disease analysis)
-
-Customer Behavior (E-commerce transactions, marketing trends)
+  The repository includes EDA on various datasets, such as:
+  
+  Sports Analytics (Player performance, match statistics)
+  
+  Financial Data (Stock market trends, banking performance)
+  
+  Healthcare Data (Patient demographics, disease analysis)
+  
+  Customer Behavior (E-commerce transactions, marketing trends)
 
 1️⃣ Install Dependencies
 
